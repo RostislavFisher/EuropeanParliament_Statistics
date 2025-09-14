@@ -1,12 +1,12 @@
-# 🇵🇸🇮🇱 Support for Palestine and Israel in the European Parliament
+# 🇵🇸🇮🇱 Support for Migration pact in the European Parliament
 
 ## Short Description
-This project analyzes the positions of Members of the European Parliament (MEPs) regarding Palestine and Israel. The goal is to understand patterns of support or opposition across parties, countries, and political groups.
+This project analyzes the positions of Members of the European Parliament (MEPs) regarding Migration pact. The goal is to understand patterns of support or opposition across parties, countries, and political groups.
 
 ---
 
 ## Context & Motivation
-The European Parliament is a key arena for international politics. Understanding how MEPs position themselves on issues related to Israel and Palestine can reveal political alignments, ideological trends, and the influence of party affiliation or country of origin.
+The European Parliament is a key arena for international politics. Understanding how MEPs position themselves on issues related to Migration pact can reveal political alignments, ideological trends, and the influence of party affiliation or country of origin.
 
 ---
 
@@ -65,7 +65,7 @@ Contains aggregated information about MEPs’ positions across themes.
 
 - **Analysis Techniques**:  
   - Descriptive statistics (mean, median support) to summarize positions across parties, countries, and political groups.  
-  - Correlation analysis between political group/country/party and stance on Israel or Palestine.  
+  - Correlation analysis between political group/country/party and stance on Migration pact.  
   - Visualizations including bar plots, heatmaps, and time series graphs to identify trends.  
 
 - **Optional Advanced Step**:  
