@@ -3,6 +3,8 @@
 This repository contains a collection of data-driven analyses on **political statements, debates, and positions** expressed in the European Parliament and in global political discourse. Using NLP (Natural Language Processing), statistical methods, and visualization techniques, the projects aim to uncover **patterns of support, opposition, and polarization** on key international issues.  
 
 ---
+⚠️ Important! This dataset has an issue with interpreting statements. If a person quotes an opponent, their own statement may be mistakenly classified as supporting the opponent’s position. I try to catch such cases, but it’s impossible to eliminate them completely.
+
 
 ## 📂 Repository Structure  
 
